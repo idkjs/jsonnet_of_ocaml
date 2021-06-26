@@ -25,3 +25,11 @@ In the future, this project may also adopt a property testing framework.
 ### Refactoring Feature:
 1. Update the codebase
 2. Check changes via `dune test`
+
+
+## Running
+
+```
+dune build @all
+dune exec ./bin/main.exe examples/test.json
+```
