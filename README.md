@@ -1,5 +1,5 @@
 # `jsonnet_of_ocaml`
-Jsonnet Lexer, Parser, Formatter and Linter written in the OCaml Programming Language.
+[Jsonnet](https://jsonnet.org/) Lexer, Parser, Formatter and Linter written in the OCaml Programming Language.
 
 ## Development Setup (VS Code)
 ```
